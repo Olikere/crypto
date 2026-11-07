@@ -70,7 +70,7 @@ challenge-name/
 | CryptoHack | [cryptohack.org](https://cryptohack.org) | 0 / ? | 🟡 In progress |
 | Cryptopals | [cryptopals.com](https://cryptopals.com) | 0 / 64 | 🟡 In progress |
 | TryHackMe | [tryhackme.com](https://tryhackme.com) | 0 / ? | ⚪ Not started |
-| Misc. CTFs | — | 0 | ⚪ Not started |
+| overthewire | [Krypton wargames](https://overthewire.org/wargames/krypton/) |  ? / 0 | ⚪ Not started |
 
 ### Cryptopals
 
@@ -174,8 +174,8 @@ Legend: ⬜ not started · 🟡 in progress · ✅ completed
 
 ```bash
 # Clone
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Olikere/crypto.git
+cd crypto
 
 # Virtual environment
 python3 -m venv venv
@@ -200,7 +200,7 @@ sage challenges/cryptohack/rsa/example/solve.sage
 - [Cryptopals](https://cryptopals.com)
 - [TryHackMe](https://tryhackme.com)
 - [CTFtime](https://ctftime.org)
-- [Krypton wargame](https://overthewire.org/wargames/krypton/)
+- [Krypton wargames](https://overthewire.org/wargames/krypton/)
 
 **Study Material**
 - [CTF Wiki: Crypto](https://ctf-wiki.org/en/crypto/introduction/)
