@@ -148,12 +148,8 @@ Each attack has its own page in `attacks/` covering: **concept, preconditions, m
 
 | Book / Course | Author | Progress |
 |---------------|--------|:--------:|
-| Serious Cryptography | Jean-Philippe Aumasson | ⬜ |
-| Cryptography Engineering | Ferguson, Schneier, Kohno | ⬜ |
-| An Introduction to Mathematical Cryptography | Hoffstein, Pipher, Silverman | ⬜ |
-| A Graduate Course in Applied Cryptography | Boneh, Shoup | ⬜ |
-| Handbook of Applied Cryptography | Menezes et al. | ⬜ |
-| Cryptography I (Coursera) | Dan Boneh | ⬜ |
+| Memo to the Amateur Cipher Designer | Schneier | ✅ |
+
 
 Legend: ⬜ not started · 🟡 in progress · ✅ completed
 
