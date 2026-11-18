@@ -72,18 +72,7 @@ challenge-name/
 | TryHackMe | [tryhackme.com](https://tryhackme.com) | 0 / ? | ⚪ Not started |
 | overthewire | [Krypton wargames](https://overthewire.org/wargames/krypton/) |  ? / 0 | ⚪ Not started |
 
-### Cryptopals
 
-| Set | Topic | Status |
-|-----|-------|:------:|
-| 1 | Basics | ⬜ |
-| 2 | Block crypto | ⬜ |
-| 3 | Block & stream crypto | ⬜ |
-| 4 | Stream crypto and randomness | ⬜ |
-| 5 | Diffie-Hellman and friends | ⬜ |
-| 6 | RSA and DSA | ⬜ |
-| 7 | Hashes | ⬜ |
-| 8 | Abstract Algebra | ⬜ |
 
 ---
 
